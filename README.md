@@ -1,1 +1,1 @@
-script provides a simplified implementation of the World War II Enigma machine used by the German military for encrypting and decrypting messages. this version supports multiple rotors with varying shift amounts and a basic plugboard for character substitution.
+script provides a simplified implementation of the ww2 enigma machine used by the german military for encrypting and decrypting messages. this version supports multiple rotors with varying shift amounts and a basic plugboard for character substitution.
